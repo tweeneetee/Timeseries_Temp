@@ -1,4 +1,4 @@
-# Timeseries_Potassium
+# Timeseries_Temperature
 
 ## Description
 This project provides a Streamlit web application for forecasting Temp levels in compost using time series analysis. It fetches data from Google Sheets, processes it, and uses ARIMA models to generate forecasts.
