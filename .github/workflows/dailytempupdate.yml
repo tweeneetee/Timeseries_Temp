@@ -2,7 +2,7 @@ name: Daily Temp Forecast Update
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs at 12 am everyday UTC
+    - cron: '0 4 * * *'  # Runs at 4 am everyday UTC
   workflow_dispatch:  # Allows manual triggers
 
 jobs:
